@@ -1,0 +1,19 @@
+Data cleaning in using jupter notebook
+Crikertest_data
+data extracted from espn 
+https://www.espncricinfo.com/records/highest-career-batting-average-282910
+
+first extract the from espn using get data from web using microsoft excel. 
+
+dropping cloumns
+changing datatypes
+Renaming Columns 
+Spliting Columns 
+
+answering questions concerning the data provided 
+1. Build a career length column([Final_year]-[rookie_year])
+2. crickets in this DF what is the average career length
+3. Avarage Battling_strike_rate for cricketers who played over 10 years
+4. Find the number of cricketers who played before 1960
+5. Max highest Inns Scores by country
+6. Hundreds, Fifties,ducks(0) average by country
